@@ -1,0 +1,21 @@
+.avatar-wrapper > object {
+    width: 100%;
+}
+.contacts li a.twitter:hover {
+    color: #260afa;
+}
+.contacts li a.instagram:hover {
+    color: #fa0a92;
+}
+.contacts li a.danger:hover {
+    color: #fa0a0e;
+}
+figure > video#donald-gif {
+    width: 100%;
+}
+figure > img {
+    width: 100%;
+}
+figure > figcaption {
+    text-align: center;
+}
